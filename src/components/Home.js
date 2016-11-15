@@ -8,7 +8,7 @@ var Home = React.createClass({
         <div className="jumbotron col-sm-12 text-center">
         <h1>Github Battle</h1>
         <Link to="playerOne">
-            <button type = 'button' className="btn btn-lg btn-success">
+            <button type='button' className="btn btn-lg btn-success">
                 Get Started
             </button>
         </Link>
